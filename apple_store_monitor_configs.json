@@ -11,8 +11,8 @@
   ],
   "notification_configs": {
     "dingtalk": {
-      "access_token": "",
-      "secret_key": ""
+      "access_token": "2d5273c97c2c469721b602457af57425e93c345761095e9fe828102524d5e33e",
+      "secret_key": "SEC192e3434cd470e68930b8dff9594b7af3f0724c054ef8ffc127442fa1b0e04c4"
     },
     "telegram": {
       "bot_token": "",
@@ -20,7 +20,7 @@
       "http_proxy": ""
     },
     "bark": {
-      "url": "https://api.day.app/nCLZ8ybskSMHczsaMiau9e",
+      "url": "",
       "query_parameters": {
         "url": null,
         "isArchive": null,
@@ -32,5 +32,5 @@
     }
   },
   "scan_interval": 30,
-  "alert_exception": false
+  "alert_exception": true
 }

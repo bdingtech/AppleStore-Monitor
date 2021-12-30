@@ -1,14 +1,9 @@
 {
   "selected_products": {
-    "MK1F3CH/A": [
-      "MacBook Pro",
-      "MacBook Pro - \u94f6\u8272"
-    ]
+    "MK1F3CH/A": ["MacBook Pro", "MacBook Pro - \u94f6\u8272"]
   },
   "selected_area": "\u6e56\u5357 \u957f\u6c99 \u8299\u84c9\u533a",
-  "exclude_stores": [
-
-  ],
+  "exclude_stores": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
   "notification_configs": {
     "dingtalk": {
       "access_token": "2d5273c97c2c469721b602457af57425e93c345761095e9fe828102524d5e33e",
